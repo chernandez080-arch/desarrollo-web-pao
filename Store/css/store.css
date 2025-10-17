@@ -1,0 +1,8 @@
+/*Aqui va el css personalizado*/
+body h1, h2, h3, h4, h5, h6, .w3-wide{
+    font-family:"monserrat", sans-serif;
+    max-width:1200px;
+}
+.w3-sidebar a {
+    font-family:"roboto", sans-serif;
+}
